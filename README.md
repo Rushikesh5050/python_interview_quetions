@@ -1,1 +1,1 @@
-https://colab.research.google.com/drive/1ji8Y7N1WPeiM7j49mibWGdWP_IG-XwVV
+https://colab.research.google.com/gist/Rushikesh5050/8e997807ebbbd9ba26100bc5cad7176a/python_programming.ipynb
